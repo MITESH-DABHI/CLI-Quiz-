@@ -1,6 +1,7 @@
 # CLI-Quiz-
 CLI Quiz
-This Is CLI Quiz APP Which is test your knowlegde 
+
+This is CLI Quiz APP Which is test your knowlegde 
 of Cyber security and track your highscore.
 
 REPL LINK : <a href="https://replit.com/@MJ14/CLI-Quiz#index.js">Play CLI Quiz APP</a>
